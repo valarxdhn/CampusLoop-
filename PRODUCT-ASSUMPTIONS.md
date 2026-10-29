@@ -1,6 +1,7 @@
 Idea Title:
 CampusLoop – Campus Life in One Place
 
+
 1. Idea Summary:
 CampusLoop is a platform where students can find campus events, workshops, hackathons, and club activities in one place. Students can view details, register, bookmark events, and track upcoming activities.
 2. Idea Source:
